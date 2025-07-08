@@ -1,0 +1,16 @@
+.testimonials .item {
+    padding: 20px;
+}
+
+.testimonials .showcase {
+    height: 50%;
+}
+
+.testimonials .showcase img {
+    height: 200px;
+}
+
+.testimonials .showcase-description {
+    height: 50%;
+    padding-top: 20px;
+}
